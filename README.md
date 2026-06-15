@@ -22,3 +22,6 @@ The goal is to analyze customer information and generate actionable insights tha
 -Data Cleaning
 -Reporting
 -Business Insights
+
+## Dashboard Preview
+![Telecom_Analytics_Dashboard](Telecom_Analytics_Dashboard.xlsx)
